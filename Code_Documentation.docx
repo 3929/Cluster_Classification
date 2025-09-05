@@ -1,0 +1,42 @@
+Overview
+A production-grade clustering pipeline for cement mill operational data analysis, featuring automated data processing, clustering, and statistical reporting.
+Project Structure
+TargetSuiteCluster/
+├── run_pipeline.py      # Pipeline execution script
+├── FINAL.py            # Core clustering implementation
+├── clustering_debug.log # Debug logging output
+└── CLUSTER_STATISTICS.xlsx  # Generated statistics
+Features
+Automated data preprocessing and validation Configurable clustering parameters Comprehensive error handling and logging Multi-silo clustering analysis Detailed statistical reporting Excel-based output generation
+Dependencies
+•	Python 3.x
+•	pandas
+•	scikit-learn
+•	matplotlib
+•	seaborn
+•	scipy
+Usage
+1.	Ensure input file run_pipeline.csv is present
+2.	Run the clustering analysis:
+python run_pipeline.py
+3.	Check generated outputs:
+o	Dendrogram visualization
+o	Cluster distribution plots
+o	Feature distribution plots
+o	Statistical summary files
+Output Files
+•	clustering_debug.log: Debug logging output
+•	CLUSTER_STATISTICS.xlsx: Detailed cluster statistics
+Visualization
+The project generates multiple visualizations:
+•	Hierarchical clustering dendrogram
+•	Cluster size distribution
+•	Feature distributions across clusters
+Analysis Parameters
+•	Number of clusters: 5
+•	Clustering method: Ward's linkage
+•	Data standardization: StandardScaler
+•	Feature filtering: Automated outlier removal
+Contributing
+Please follow standard Python coding conventions and document any changes.
+
