@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cibi Karthik M</h1>
 <h3 align="center">🏭 AI/ML Engineer | Building Smart Solutions for Manufacturing & Process Control</h3>
 
-<div align="center" style="background: #f0f8ff; padding: 24px; border-radius: 16px; box-shadow: 0 2px 8px #e0e0e0;">
-  <!-- You can adjust the background color and padding as needed -->
-  <img src="https://github.com/user-attachments/assets/35bef16e-453c-4fdd-b362-5ced35d19898" alt="Optiverse Logo" width="350"/>
-  <h2 style="color: #01B763; margin-top: 16px;">
-</div>
     
 # TargetSuiteCluster
 ## Overview
