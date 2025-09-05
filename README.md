@@ -1,4 +1,5 @@
-<!-- Center and highlight the Optiverse logo in README.md -->
+<h1 align="center">Hi 👋, I'm Cibi Karthik M</h1>
+<h3 align="center">🏭 AI/ML Engineer | Building Smart Solutions for Manufacturing & Process Control</h3>
 
 <div align="center" style="background: #f0f8ff; padding: 24px; border-radius: 16px; box-shadow: 0 2px 8px #e0e0e0;">
   <!-- You can adjust the background color and padding as needed -->
@@ -65,7 +66,21 @@ The project generates multiple visualizations:
 - Clustering method: Ward's linkage
 - Data standardization: StandardScaler
 - Feature filtering: Automated outlier removal
+### 🤝 *Let's Connect!*
 
+<div align="center">
+  
+<a href="https://linkedin.com/in/cibikarthik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:cibikarthik.m@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/cibikarthik" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 ## Contributing
 Please follow standard Python coding conventions and document any changes.
 
